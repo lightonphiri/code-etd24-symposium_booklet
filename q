@@ -1,0 +1,341 @@
+[33mcommit 0c6df95ff82ba94f9e1545457a4ec431e6adbbac[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Lighton Phiri <lighton.phiri@gmail.com>
+Date:   Sat Oct 26 20:02:04 2024 +0200
+
+    List of Participants
+    
+    Updated the list of registered participants with
+    completed registration status
+
+[33mcommit 547ac4e67f0b5b7ef5dff62e0f884fbc922f89c8[m
+Author: Lighton Phiri <lighton.phiri@gmail.com>
+Date:   Sat Oct 26 15:18:47 2024 +0200
+
+    Conference Timetable
+    
+    Added workshop abstracts
+    Added Day 3 of conference timetable
+
+[33mcommit 0867a350395742b67817c732ffd8ba2016127849[m
+Author: Lighton Phiri <lighton.phiri@gmail.com>
+Date:   Sat Oct 26 01:55:12 2024 +0200
+
+    List of Participants
+    
+    Added preliminary list of participants
+
+[33mcommit c48b8c4b223d8bf2ef6e4de202baea70058aabc6[m
+Author: Lighton Phiri <lighton.phiri@gmail.com>
+Date:   Sat Oct 26 01:33:23 2024 +0200
+
+    Conference Timetable
+    
+    Added Day 1 timetable
+    Added Day 2 timetable
+
+[33mcommit f2192328084080515622e7dc60d3e1fc20ef4331[m
+Author: Lighton Phiri <lighton.phiri@gmail.com>
+Date:   Thu Oct 24 21:06:03 2024 +0200
+
+    Organisation Committees
+    
+    Added Local Conference Organising Committee
+    members
+    Added Programme Committee members
+
+[33mcommit 1f1c2a7ffe62ca3dbf4acdae55a51fda31249125[m
+Author: Lighton Phiri <lighton.phiri@gmail.com>
+Date:   Thu Oct 24 15:51:01 2024 +0200
+
+    Booklet Aesthetics
+    
+    Changed conference booklet primary colour to
+    NDLTD colour
+
+[33mcommit 2e345943944d4287975066dbee82432f98911a1e[m
+Author: Lighton Phiri <lighton.phiri@gmail.com>
+Date:   Thu Oct 24 15:36:10 2024 +0200
+
+    Booklet Cover Page
+    
+    Added Google Slide exported ETD 2024 cover page
+
+[33mcommit f6f4894b230c4b97228e4804f2a42b89c29a7056[m
+Author: Lighton Phiri <lighton.phiri@gmail.com>
+Date:   Thu Oct 24 14:20:24 2024 +0200
+
+    Partner and Sponsor Logos
+    
+    Added all sponsor logos
+    Added all additional sponsor logos
+
+[33mcommit 545ff580010b6501d29e5764ec33857192db09d6[m
+Author: Lighton Phiri <lighton.phiri@gmail.com>
+Date:   Thu Oct 24 13:41:32 2024 +0200
+
+    README.md
+    
+    Added ETD 2024 centric changes to README.md file
+
+[33mcommit b470dbd91cecd37ec62b8069f56eb316e75be4ab[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Wed Sep 25 15:32:10 2019 +0200
+
+    updated readme
+
+[33mcommit cd20356acc7d82e80aa76d4124d655983914cbac[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Wed Sep 25 15:30:45 2019 +0200
+
+    updated readme
+
+[33mcommit b52a1b94894e126eb4900b0ae3207452d53aa04f[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Wed Sep 25 15:27:48 2019 +0200
+
+    updated readme
+
+[33mcommit 0b969ea651d3a5f6d551d91806550a43f6520550[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Wed Sep 25 15:08:19 2019 +0200
+
+    updated readme
+
+[33mcommit 380898ee3aea368bf838b9a0e13b500e4677feeb[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Wed Sep 25 15:04:07 2019 +0200
+
+    updated readme
+
+[33mcommit f332202fc9717fc19dbe5a850164a968caaf3445[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Wed Sep 25 14:36:59 2019 +0200
+
+    added template info + example pdfs
+
+[33mcommit 40d01de888b3701c4a8785ecaf6f0ffd39116528[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Sat Jul 27 00:10:58 2019 +0200
+
+    added new example booklets
+
+[33mcommit 72ccad3533050fb94e7558177ec513b6e28a9756[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Fri Jul 26 18:01:48 2019 +0200
+
+    added new example booklets
+
+[33mcommit 59d77b9b797cecd8ef5acaaaca55164d9e5163df[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Thu Jul 4 14:30:58 2019 +0200
+
+    updated version of pdf
+
+[33mcommit 19e8974fc9a816574ecff7a6c2951639fc6a8abd[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Thu Jul 4 14:26:14 2019 +0200
+
+    added example of conference using the template
+
+[33mcommit 0b09e288978581751c285c3341bb297945d89591[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Thu Jul 4 13:44:29 2019 +0200
+
+    fixed bugged due to main->MAIN non consistently done
+
+[33mcommit 6f66bc9a7167a15ae3e5695935161feff1d9fc26[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Sun Apr 7 09:55:57 2019 +0200
+
+    added FoF to list of examples
+
+[33mcommit 78eba389a4da7e5fd171726759dbe84b0bf428a5[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Mon Mar 25 19:15:31 2019 +0100
+
+    updated title
+
+[33mcommit b5be86b34067b0b758f0368e1d8aed6cf9c880ce[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Mon Mar 25 19:14:17 2019 +0100
+
+    updated title
+
+[33mcommit 11f8583a7c77012de8e2e1d94ea78b8009938755[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Mon Mar 25 19:08:41 2019 +0100
+
+    updated title
+
+[33mcommit ac5798c8551348edab51f554e11c00c59cac27cf[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Mon Mar 25 16:31:09 2019 +0100
+
+    updated title
+
+[33mcommit e2c84f1dc14cd321086b09da96af574b25f9a4d3[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Sun Mar 24 10:32:26 2019 +0100
+
+    added comments with exlanations
+
+[33mcommit 312a215236f4d382316ad1b182001711d556a373[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Sun Mar 24 10:26:43 2019 +0100
+
+    added comments with exlanations
+
+[33mcommit 7cdb0f0cd0f4a3a5518bf015b69ccd87e9b692aa[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Sun Mar 24 09:56:23 2019 +0100
+
+    corrected typos
+
+[33mcommit ea9a91761f1ef06920200394df2a69b1e04a4975[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Sun Mar 24 09:50:18 2019 +0100
+
+    added example of booklet, and cite and contact sections
+
+[33mcommit 058895cb52e96a054cea7d43230801ca57f1db89[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Tue Dec 18 11:03:07 2018 +0100
+
+    added pdf of examples
+
+[33mcommit a5d7eb1938712d8bcdefd3f0ab2353c3e7ad7316[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Tue Dec 18 10:04:28 2018 +0100
+
+    main in caps
+
+[33mcommit d2dc2f6920a1165cf7dea0e2ae066a0969477d94[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Tue Nov 6 18:25:16 2018 +0100
+
+    add thomas in credits
+
+[33mcommit 0e5b59f85afa4b8af3e5711c6048d488ee9b0454[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Tue Nov 6 16:54:56 2018 +0100
+
+    updated url
+
+[33mcommit 42740541fae83a6622a6e6ad5bbfc794d966d898[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Tue Oct 2 16:39:24 2018 +0100
+
+    added support for mac line endings
+
+[33mcommit a756386c87bb385afdc68cb917bdb7654bf5c768[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Sat Sep 29 14:00:59 2018 +0200
+
+    added comment on accents
+
+[33mcommit 270002b6db88a2dab40173962135961f7962b200[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Sat Sep 29 13:38:10 2018 +0200
+
+    added directoy structure
+
+[33mcommit 13ef25e7f58552c3627b4025a80fc7f7a05c380c[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Sat Sep 29 13:32:49 2018 +0200
+
+    corrected typo
+
+[33mcommit 2412ac059506996e7927193e9e26e78f85ad82e2[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Sat Sep 29 13:32:11 2018 +0200
+
+    added format or abstract file name
+
+[33mcommit 05a92c208d76dc8cdef4e7e529889c0f61e06627[m
+Merge: abfd5a0 2309706
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Sat Sep 29 13:25:15 2018 +0200
+
+    Merge branch 'master' of https://github.com/maximelucas/AMCOS_booklet
+    
+    added license file
+
+[33mcommit abfd5a05e297063cf194ac12137be68150f3175b[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Sat Sep 29 13:21:20 2018 +0200
+
+    changed headings
+
+[33mcommit 2309706350288423a6ba072b4a09072cf48e5950[m
+Author: Maxime Lucas <maximelucas@users.noreply.github.com>
+Date:   Fri Sep 28 12:16:18 2018 +0200
+
+    create license
+    
+    no changes made
+
+[33mcommit 43bf2f9a67d9435495cf29890d1ed374308eee7e[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Fri Sep 28 10:51:56 2018 +0200
+
+    added c
+
+[33mcommit b80587d800446bb6315a440ffac2555808960c1a[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Fri Sep 28 10:48:49 2018 +0200
+
+    added compeng
+
+[33mcommit 1def557cfee4637a37996c70677e7cfc35006039[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Wed Sep 26 12:40:32 2018 +0200
+
+    minor changes and compeng
+
+[33mcommit 6b93d32d2555ce05770f597f41eff7df36d155f3[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Wed Sep 26 12:37:02 2018 +0200
+
+    no todo
+
+[33mcommit 79b58b19374e14c372a9030e683bf0c4cc64ad7f[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Wed Sep 26 12:36:13 2018 +0200
+
+    figures
+
+[33mcommit cc8f6195bc1b04897e18b9eb742a7ffc666ef5e2[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Wed Sep 26 12:33:29 2018 +0200
+
+    newline
+
+[33mcommit 1e2ec8808b842e072ca286773d1779baadbaa5f8[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Wed Sep 26 12:31:05 2018 +0200
+
+    readme upadted
+
+[33mcommit c5c9e0c5e6d8b57d332c3cec27bfdaff06238c33[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Thu Mar 22 10:27:50 2018 +0100
+
+    main.tex made fully modular
+
+[33mcommit 57b7b09f842ba00444061d7b1e87179f09bdce1a[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Tue Mar 13 18:04:01 2018 +0100
+
+    added .tex repo
+
+[33mcommit 2139245baaaf632cc979e15c15a5d049bddb0f37[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Tue Mar 13 18:01:27 2018 +0100
+
+    First commit
+
+[33mcommit bbad5c02106cb35385ae9bc577f84207ae6a2e04[m
+Author: Maxime Lucas <m.lucas@lancaster.ac.uk>
+Date:   Tue Mar 13 17:59:54 2018 +0100
+
+    First commit
